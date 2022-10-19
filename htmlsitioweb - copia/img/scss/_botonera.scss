@@ -1,0 +1,8 @@
+//nesting
+
+nav{
+    background-color: $mainColor;
+    p{
+     color: $keyColor;
+    }
+}
